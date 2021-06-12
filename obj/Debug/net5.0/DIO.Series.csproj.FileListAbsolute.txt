@@ -1,0 +1,16 @@
+E:\DIO\MATERIAL DIO\.net\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+E:\DIO\MATERIAL DIO\.net\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+E:\DIO\MATERIAL DIO\.net\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+E:\DIO\MATERIAL DIO\.net\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+E:\DIO\MATERIAL DIO\.net\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+E:\DIO\MATERIAL DIO\.net\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+E:\DIO\MATERIAL DIO\.net\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+E:\DIO\MATERIAL DIO\.net\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+E:\DIO\MATERIAL DIO\.net\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\MATERIAL DIO\.net\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+E:\DIO\MATERIAL DIO\.net\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+E:\DIO\MATERIAL DIO\.net\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\DIO\MATERIAL DIO\.net\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+E:\DIO\MATERIAL DIO\.net\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+E:\DIO\MATERIAL DIO\.net\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+E:\DIO\MATERIAL DIO\.net\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache

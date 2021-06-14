@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using DIO.Series.Interfaces;
 
@@ -31,7 +30,5 @@ namespace DIO.Series
         {
             return listaSerie.Count;
         }
-
-        
     }
 }

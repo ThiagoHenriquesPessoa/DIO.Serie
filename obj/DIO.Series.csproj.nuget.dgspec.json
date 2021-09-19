@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DIO\\MATERIAL DIO\\.net\\DIO.Series\\DIO.Series.csproj": {}
+    "C:\\Users\\thiag\\source\\repos\\DIO.Serie\\DIO.Series.csproj": {}
   },
   "projects": {
-    "E:\\DIO\\MATERIAL DIO\\.net\\DIO.Series\\DIO.Series.csproj": {
+    "C:\\Users\\thiag\\source\\repos\\DIO.Serie\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DIO\\MATERIAL DIO\\.net\\DIO.Series\\DIO.Series.csproj",
+        "projectUniqueName": "C:\\Users\\thiag\\source\\repos\\DIO.Serie\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "E:\\DIO\\MATERIAL DIO\\.net\\DIO.Series\\DIO.Series.csproj",
+        "projectPath": "C:\\Users\\thiag\\source\\repos\\DIO.Serie\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "E:\\DIO\\MATERIAL DIO\\.net\\DIO.Series\\obj\\",
+        "outputPath": "C:\\Users\\thiag\\source\\repos\\DIO.Serie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
